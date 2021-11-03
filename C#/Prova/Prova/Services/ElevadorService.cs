@@ -252,7 +252,7 @@ namespace Prova.Services
            
             foreach (var grupo in resultado)
             {
-               // Console.WriteLine($"PERIODO: {grupo.Key} - FREQUENTADO: {grupo.Count()} ");
+               // Console.WriteLine($"PERIODO: {grupo.Key} - FREQUENTADO: {grupo.Count()} ");1
        
                 if (aux == 0)
                 {
