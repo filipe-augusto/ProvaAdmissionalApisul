@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ofaQflVng/Y3IUYtfLa7o7brs873ZKaCcLMV0oFRwOG3hoNl9q8pks0S/cwmnxiBE1/YjMp6ikZZW0yeNtbyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faugu\\Documents\\ProvaAdmissionalApisul\\C#\\Prova\\Prova\\Prova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faugu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\faugu\\.nuget\\packages\\system.composition\\5.0.1\\system.composition.5.0.1.nupkg.sha512",
+    "C:\\Users\\faugu\\.nuget\\packages\\system.composition.attributedmodel\\5.0.1\\system.composition.attributedmodel.5.0.1.nupkg.sha512",
+    "C:\\Users\\faugu\\.nuget\\packages\\system.composition.convention\\5.0.1\\system.composition.convention.5.0.1.nupkg.sha512",
+    "C:\\Users\\faugu\\.nuget\\packages\\system.composition.hosting\\5.0.1\\system.composition.hosting.5.0.1.nupkg.sha512",
+    "C:\\Users\\faugu\\.nuget\\packages\\system.composition.runtime\\5.0.1\\system.composition.runtime.5.0.1.nupkg.sha512",
+    "C:\\Users\\faugu\\.nuget\\packages\\system.composition.typedparts\\5.0.1\\system.composition.typedparts.5.0.1.nupkg.sha512",
+    "C:\\Users\\faugu\\.nuget\\packages\\vse.web.serialization.controlledserializationjsonconverter\\1.0.4\\vse.web.serialization.controlledserializationjsonconverter.1.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Vse.Web.Serialization.ControlledSerializationJsonConverter 1.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Vse.Web.Serialization.ControlledSerializationJsonConverter",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
